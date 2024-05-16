@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../erp"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

@@ -1,0 +1,37 @@
+.Contenido{
+    width:50rem;
+    margin-bottom: 10px;
+}
+.ParteAbajo{
+    display:flex;
+    flex-direction:column;
+    position:relative;
+    bottom:10px;
+    font-size:17px;
+}
+.ParteAbajoDerecha{
+    display:flex;
+    flex-direction:column;
+    text-align: right;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.txtTitle{
+    font-size:17px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:3px;
+}
+.Titulo{
+    text-align:center;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    border: 1px solid #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+}

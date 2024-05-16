@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "erpApi",
+			"path": ".."
+		},
+		{
+			"name": "erp",
+			"path": "../../erp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "erpFrontEnd"
+	}
+}

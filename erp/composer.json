@@ -1,0 +1,9 @@
+{
+    "require": {
+        "geekcom/phpjasper": "^3.3",
+        "dompdf/dompdf": "^2.0",
+        "phpoffice/phpword": "^1.0",
+        "phpoffice/phpspreadsheet": "^1.28",
+        "phpoffice/phppresentation": "^1.0"
+    }
+}
